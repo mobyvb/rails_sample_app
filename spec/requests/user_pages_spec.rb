@@ -54,4 +54,8 @@ describe "UserPages" do
       end
     end
   end
+
+  describe "edit" do
+
+  end
 end
